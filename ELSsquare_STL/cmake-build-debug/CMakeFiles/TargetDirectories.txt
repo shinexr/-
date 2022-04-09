@@ -1,0 +1,4 @@
+D:/work/QT/ELSsquare_STL/cmake-build-debug/CMakeFiles/ELSsquare.dir
+D:/work/QT/ELSsquare_STL/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/work/QT/ELSsquare_STL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/work/QT/ELSsquare_STL/cmake-build-debug/CMakeFiles/ELSsquare_autogen.dir
